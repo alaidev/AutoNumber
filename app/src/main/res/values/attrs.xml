@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AutoNumberView">
+        //变化速度
+        <attr name="auto_speed" format="integer"/>
+        //边框颜色
+        <attr name="stroke_color" format="color"/>
+        //数字颜色
+        <attr name="text_color" format="color"/>
+    </declare-styleable>
+</resources>
